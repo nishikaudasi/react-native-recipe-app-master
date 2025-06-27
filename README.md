@@ -46,3 +46,8 @@ cd mobile
 npm install
 npx expo start
 ```
+
+![image](https://github.com/user-attachments/assets/97b8493c-70ee-4b37-af46-d783fe76c545)
+![image](https://github.com/user-attachments/assets/052ee26b-1947-44f4-87fc-d13a6ab59f9c)
+
+

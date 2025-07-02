@@ -47,7 +47,8 @@ npm install
 npx expo start
 ```
 
-![image](https://github.com/user-attachments/assets/97b8493c-70ee-4b37-af46-d783fe76c545)
-![image](https://github.com/user-attachments/assets/052ee26b-1947-44f4-87fc-d13a6ab59f9c)
+![Screenshot 2025-06-27 151904](https://github.com/user-attachments/assets/dfbb5a18-73db-4ac4-80b3-42c9cb727c90)
+![Screenshot 2025-06-27 151645](https://github.com/user-attachments/assets/b689b5ab-e65f-44b5-9140-1d0af1c05cab)
+
 
 
